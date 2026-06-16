@@ -1,5 +1,6 @@
 DNS Lab
 The purpose of this lab is to understand how DNS name resolution works.
+**DNS**: It is the system that translates the names of websites into numerical IP addresses, allowing computers and servers to find each other.
 
 ## Topology
 -2 Laptop
@@ -15,5 +16,5 @@ The purpose of this lab is to understand how DNS name resolution works.
 Open the web page from one of the laptops by typing the domain name instead of writing the IP address.
 
 ## Result
-I've learned that how DNS resolves domain names into IP addresses. I learned the basics of DNS configuration, 
+I've learned how DNS resolves domain names into IP addresses. I learned the basics of DNS configuration, 
 client-server communication, and the importance of name resolution in computer networks.
