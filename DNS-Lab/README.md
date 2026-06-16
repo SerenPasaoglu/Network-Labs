@@ -1,0 +1,19 @@
+DNS Lab
+The purpose of this lab is to understand how DNS name resolution works.
+
+## Topology
+-2 Laptop
+-1 Swicth
+-1 DNS Server
+
+## Configuration
+-Assigned IP addresses to laptops
+-Configured the DNS Server
+-Created a DNS server record for www.amazon.com
+
+## Testing
+Open the web page from one of the laptops by typing the domain name instead of writing the IP address.
+
+## Result
+I've learned that how DNS resolves domain names into IP addresses. I learned the basics of DNS configuration, 
+client-server communication, and the importance of name resolution in computer networks.
