@@ -20,7 +20,8 @@ and DNS information, to devices connected to the network.
 
   ## Testing
 
-  The clients successfully obtained IP addresses automatically from the DHCP serves
+  The clients successfully obtained IP addresses automatically from the DHCP serves.
+  Simultaneously, by integrating a DNS server into the test, attempts were made to access the www.amazon.com website using automatically obtained IP addresses.
 
   ## Result
 
